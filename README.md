@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">🛸 Welcome to My Galactic GitHub Profile! 🛸</h1>
+<h1 align="center">🛸 Welcome to My GitHub Profile! 🛸</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Star Wars Welcome">
@@ -18,15 +18,19 @@
 - 🔭 Current focus: [Your coolest project].
 - ⚔️ Skills: Lightsaber combat 🟡, Droid communication 🤖, Code-writing mastery 💻.
 
+
 ---
+
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra Patel&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
+
 ---
+
 
 ### 🛰️ Technologies I've Mastered
 <p align="center">
@@ -36,7 +40,9 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+
 ---
+
 
 ### 🎵 Star Wars Theme Music
 <p align="center">
@@ -47,7 +53,9 @@
   <img src="https://img.shields.io/badge/Now%20Playing-Star%20Wars%20Theme-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" />
 </p>
 
+
 ---
+
 
 ### ⚡ Fun Galactic Widgets
 - **Visitor Counter**: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
