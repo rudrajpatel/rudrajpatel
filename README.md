@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👋 Welcome to My Notion-Inspired GitHub Profile!</h1>
+<h1 align="center">👋 Hello There!</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Avatar" width="100" style="border-radius: 50%;">
@@ -47,20 +47,7 @@ Here’s a glimpse of my favorite projects:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
----
 
-### 📅 My Weekly Schedule (Just Like Notion’s Planner)
-| Day       | Focus Area        | Description                  |
-|-----------|-------------------|------------------------------|
-| **Monday** | Learning          | Explore new technologies.    |
-| **Tuesday**| Coding            | Work on open-source projects.|
-| **Wednesday**| Planning        | Outline personal goals.      |
-| **Thursday**| Debugging        | Fix critical issues.         |
-| **Friday** | Reviewing         | Code reviews and documentation. |
-| **Saturday**| Free Exploration | Fun experiments.             |
-| **Sunday** | Rest & Reflect    | Recharge for the week ahead. |
-
----
 
 ### 🌐 Let's Connect
 <p>
