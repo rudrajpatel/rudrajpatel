@@ -1,66 +1,78 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hello There!</h1>
+<h1 align="center">
+  Welcome to [Your Name]'s GitHub Profile
+</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Avatar" width="100" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5FD8FD&center=true&width=435&lines=Engineer.+Builder.+Innovator.;Coding+the+Future.;Open+to+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
 </p>
 
+---
+
+### 👋 **About Me**
+- 🎓 **Qualification:** [Your Degree, Major]
+- 💼 **Current Role:** [Your Job/Position or "Open to Work"]
+- 📍 **Location:** [Your Location]
+- 🌱 **Learning:** [Current Tech/Skills]
+- 💡 **Interests:** [Your Hobbies/Interests]
+- 📫 **Contact:** [Your Email/LinkedIn]
+
+---
+
+### 🚀 **Technologies & Tools**
 <p align="center">
-  <b>A workspace for creativity, productivity, and collaboration.</b>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,java,github,git,docker,linux" alt="Technologies" />
 </p>
 
 ---
 
-### 📝 About Me
-- 🌟 **Innovative Developer** passionate about building tools that inspire.
-- 📖 Documenting my journey as a **problem solver and learner**.
-- 🛠️ Working with technologies like **JavaScript, Python, and React**.
-- 🌍 Exploring open-source and contributing to collaborative projects.
-
----
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
-</p>
-
----
-
-### 🌟 Featured Projects
-Here’s a glimpse of my favorite projects:
-
-| Project Name          | Description                                | Tech Stack       | Repo Link         |
-|-----------------------|--------------------------------------------|------------------|-------------------|
-| **Notion-Like Clone** | A minimalist workspace tool                | React, Tailwind  | [Link](#)         |
-| **Task Manager App**  | A dynamic Kanban board for productivity    | JavaScript, API  | [Link](#)         |
-| **Blog CMS**          | A content management system for creators  | Django, HTML/CSS | [Link](#)         |
-
----
-
-### 📊 GitHub Stats
+### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
+---
 
+### 🌟 **Highlights**
+- 🔭 **Projects:** 
+  - [Project 1 Name](Link)
+  - [Project 2 Name](Link)
+  - [Portfolio](Your Portfolio Link)
+- 🌐 **Blogs:** 
+  - [Blog 1 Name](Link)
+  - [Blog 2 Name](Link)
 
-### 🌐 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
+---
+
+### 💬 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internet-explorer" alt="Portfolio" />
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
+### 🌈 **Random Quote**
 <p align="center">
-  <b>🖤 Clean, Minimal, and Organized — Just Like Notion!</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
+
+---
+
+### 📂 **Pinned Repositories**
+<div align="center">
+  <a href="https://github.com/yourusername/repository1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/repository2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2&theme=radical" />
+  </a>
+</div>
