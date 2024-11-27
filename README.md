@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to [Your Name]'s GitHub Profile
+  Rudra Patel to [Your Name]'s GitHub Profile
 </h1>
 
 <p align="center">
@@ -32,18 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-### 🌟 **Highlights**
-- 🔭 **Projects:** 
-  - [Project 1 Name](Link)
-  - [Project 2 Name](Link)
-  - [Portfolio](Your Portfolio Link)
-- 🌐 **Blogs:** 
-  - [Blog 1 Name](Link)
-  - [Blog 2 Name](Link)
-
----
+----
 
 ### 💬 **Connect With Me**
 <p align="center">
@@ -64,15 +53,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
-
----
-
-### 📂 **Pinned Repositories**
-<div align="center">
-  <a href="https://github.com/yourusername/repository1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/repository2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2&theme=radical" />
-  </a>
-</div>
