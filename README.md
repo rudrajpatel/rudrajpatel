@@ -1,38 +1,28 @@
-<h1 align="center">
-  Rudra Patel to [Your Name]'s GitHub Profile
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5FD8FD&center=true&width=435&lines=Engineer.+Builder.+Innovator.;Coding+the+Future.;Open+to+Opportunities+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<h3 align="center">Hello There 👋</h3>
+<p align="center">I'm a Full-Stack Developer, Creative Designer and OS Contributor. I also like Star Wars. <img align="center" src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif" width="70"/> </p> 
+
+<!---TECH STACK--->
+<h3>Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,c,java,bootstrap,html,css,linux,gcp,firebase,git,mysql,figma,matlab" />
+  </a>
 </p>
 
----
+<p>&nbsp;&nbsp;</p>
 
-### 👋 **About Me**
-- 🎓 **Qualification:** [Your Degree, Major]
-- 💼 **Current Role:** [Your Job/Position or "Open to Work"]
-- 📍 **Location:** [Your Location]
-- 🌱 **Learning:** [Current Tech/Skills]
-- 💡 **Interests:** [Your Hobbies/Interests]
-- 📫 **Contact:** [Your Email/LinkedIn]
-
----
-
-### 🚀 **Technologies & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,java,github,git,docker,linux" alt="Technologies" />
-</p>
-
----
-
-### 📊 **GitHub Stats**
+<!---GITHUB STATS--->
+<h3>GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudrajpatel&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudrajpatel&theme=chartreuse-dark"/>
 </div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajpatel&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
-----
+
 
 ### 💬 **Connect With Me**
 <p align="center">
