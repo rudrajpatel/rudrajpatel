@@ -21,6 +21,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rudrajpatel&theme=chartreuse-dark"/>
 </div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrajpatel&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
 
 
 
