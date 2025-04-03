@@ -19,12 +19,12 @@
 <!---GITHUB STATS--->
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="60%"/>
   <!---<img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=github-dark&hide_border=true" alt="GitHub Streak" width="48%"/> --->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="60%"/>
 </p>
 
 <p>&nbsp;&nbsp;</p>
